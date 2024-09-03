@@ -2,7 +2,6 @@
   "name": "namaste-react-project--1",
   "version": "1.0.0",
   "description": "This is my first react project",
-  "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
